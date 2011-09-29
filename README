@@ -1,4 +1,7 @@
 PNGNN:
 +++++++++++++
 
-
+WOIPV_EncoderDecoder: 	PNG Encoding/Decoding is done in this Subproject
+WOIPV_Exporter: 	Image export to usable JNNS Pattern files (implemented only for grayscale)
+WOIPV_JNNSParser	Parser for the .net files from JNNS uses the other Neural Network Project to store it
+WOIPV_NeuralNetwork	Very Simple Neural Network implementation (Only for 1 Layer implemented..)
